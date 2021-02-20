@@ -1,6 +1,4 @@
-.nav {
-    color: #7089C1;
-}
+
 
 h1 {
   color: #000000;
@@ -19,9 +17,9 @@ h2 {
 }
 
 .header {
-  display: block;
-  justify-content:space-between;
-  align-items: center;
+  display: inherit;
+  justify-content: center;
+  align-items: stretch;
   background-color: #282727;
   color: #FFFFFF;
   width: 200%
