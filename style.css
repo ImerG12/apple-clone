@@ -17,8 +17,8 @@ h2 {
 }
 
 .header {
-  display: contents;
-  justify-content: center;
+  display: inherit;
+  justify-content: space-around;
   align-items:center;
   background-color: #282727;
   color: #FFFFFF;
