@@ -17,3 +17,21 @@ p {
 h2 {
   color: #FFFFFF
 }
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #282727;
+  color: #FFFFFF;
+  width: 200%
+
+}
+
+.lead {
+  color: #808B96;
+  font-size: 12px;
+}
+footer {
+  color: #C0C0C0;
+}
